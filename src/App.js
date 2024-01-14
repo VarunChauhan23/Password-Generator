@@ -1,9 +1,10 @@
 import React from "react";
+import MainCard from "./Components/MainCard";
 
 function App() {
   return (
     <>
-      <h1>Password generator</h1>
+      <MainCard />
     </>
   );
 }
