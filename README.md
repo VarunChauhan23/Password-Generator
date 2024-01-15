@@ -17,23 +17,23 @@
 
 ### Installation
 
-* Clone the repository:
+1. Clone the repository:
+    ```bash
+     git clone https://github.com/VarunChauhan23/Password-Generator.git
 
-git clone https://github.com/VarunChauhan23/Password-Generator.git
+2. Navigate to the project directory:
 
-* Navigate to the project directory:
+  cd Password-Generator
 
-cd Password-Generator
+3. Install dependencies:
 
-* Install dependencies:
-
-npm install
+  npm install
 
 ### Usage
 
 * Start the development server:
 
-npm start
+  npm start
 
 * Open the app in your web browser at http://localhost:3000.
 
@@ -41,22 +41,20 @@ npm start
 2. Select the characters choices for your password.
 3. Available choices are all uppercase and lowercase letters, numbers(0 - 9) and various special symbols.
 4. Click generate password button.
-
-Now your password will be visible at the output area box.
-5. Click copy password button to copy the generated password.
-
-Now your password is copied to your clipboard.
+5. Now your password will be visible at the output area box.
+6. Click copy password button to copy the generated password.
+7. Now your password is copied to your clipboard.
 
 ### Contribution
 
 * Contributions are welcome! Feel free to open issues or submit pull requests.
 
-* Fork the repository.
+1. Fork the repository.
 
-* Create a new branch for your feature or bug fix: "git checkout -b feature-name".
+2. Create a new branch for your feature or bug fix: "git checkout -b feature-name".
 
-* Commit your changes: "git commit -m 'Add new feature'".
+3. Commit your changes: "git commit -m 'Add new feature'".
 
-* Push to the branch: "git push origin feature-name".
+4. Push to the branch: "git push origin feature-name".
 
-* Submit a pull request.
+5. Submit a pull request.
